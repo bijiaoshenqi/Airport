@@ -1,0 +1,6 @@
+[submodule "Aircraft"]
+	path = Aircraft
+	url = https://github.com/Stifling-Bossness/Aircraft.git
+[submodule "Factorio-AircraftRealism"]
+	path = Factorio-AircraftRealism
+	url = https://github.com/jaihysc/Factorio-AircraftRealism.git
