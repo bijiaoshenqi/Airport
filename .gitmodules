@@ -4,3 +4,6 @@
 [submodule "Factorio-AircraftRealism"]
 	path = Factorio-AircraftRealism
 	url = https://github.com/jaihysc/Factorio-AircraftRealism.git
+[submodule "factorio-data"]
+	path = factorio-data
+	url = https://github.com/wube/factorio-data.git
